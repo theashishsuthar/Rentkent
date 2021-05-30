@@ -33,5 +33,5 @@ This project is a combination of three applications. first application which ena
 
 > By downloading this apk you agree with our [terms of use](https://github.com/theashishsuthar/Rentkent/blob/main/terms%20&%20conditions.md).
 
- 1. [Rentkent for Customer](https://smallpdf.com/handle-widget#url=https://assets.ctfassets.net/l3l0sjr15nav/29D2yYGKlHNm0fB2YM1uW4/8e638080a0603252b1a50f35ae8762fd/Get_Started_With_Smallpdf.pdf)
+ 1. [Rentkent for Customer](https://drive.google.com/file/d/1Fn4cPyA36-zcTTniVKliEE7ZcBiF6RSL/view?usp=sharing)
  2. To see another two releases of the hostel management and business owner app feel free to contact me at ****sutharashish5656@gmail.com****
