@@ -8,6 +8,9 @@
 
 An idea was very simple to create **Better transparent platform** by replacing the current online platform. Mainly students face too many problems after staying for one month or two months in the private accommodation. also on another side new stranges in the respective city also face transparency issue with their house owners.
 
+
+## UI/UX![UI/UX of the rentkent](https://ashishsuthar.loopvert.com/images/1.png)
+
 ## Solution
 
 To encounter this issue we planned to develop two applications using **Flutter cross-platform.** after four to five-month we made production-level applications.
